@@ -1,8 +1,8 @@
 # PersonalFinanceTracker
 
-# A Simple Personal Finance Tracker
+## A Simple Personal Finance Tracker
 
-## Features
+### Features
 * CLI interface
 * Input Income/Expense
 * Compute Balance - Total Income - Total Expenses
